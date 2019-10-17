@@ -1,0 +1,42 @@
+body{
+    background: lightblue;
+}
+#header{
+    text-align: center;
+    background: cornflowerblue;
+    height : 175px;
+    vertical-align: middle;
+    top : 50%;
+}
+#headertext {
+    vertical-align: middle;
+    top : 50%;
+}
+#manager{
+    text-align: center;
+}
+#titlebanner{
+    font-weight: 800;
+    text-align: center;
+}
+#title {
+    background: darkblue;
+    color:white;
+    text-align: center;
+    padding: 0px;
+    margin : 0px;
+}
+#info {
+    background: chocolate;
+    color: white;
+    margin: 0px;
+    text-align: center;
+}
+#title2 {
+    background: darkblue;
+    color:white;
+    text-align: center;
+    padding: 0px;
+    margin : 0px;
+    text-align: center;
+}
